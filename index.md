@@ -14,7 +14,7 @@
 - [PHP](languages/php.md)
 - [MATLAB](languages/matlab.md)
 - [Fortran](languages/fortran.md)
-- [Delphi/Object Pascal](languages/delphi_object_pascal.md)
+- [Delphi](languages/delphi.md)
 - [Swift](languages/swift.md)
 - [Rust](languages/rust.md)
 - [Ruby](languages/ruby.md)
