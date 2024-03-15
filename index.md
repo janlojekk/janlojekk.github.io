@@ -4,7 +4,7 @@
 - [C](languages/c.md)
 - [C++](languages/c++.md)
 - [Java](languages/java.md)
-- [C#](languages/c#.md)
+- [C Sharp](languages/c_sharp.md)
 - [JavaScript](languages/javascript.md)
 - [SQL](languages/sql.md)
 - [Go](languages/go.md)
